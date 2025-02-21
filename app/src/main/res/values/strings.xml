@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="please_signup"><u>Please SignUp!</u></string>
+    <string name="please_login"><u>Please Login!</u></string>
+    <string name="resend_otp"><u>Resend OTP</u></string>
+    <string name="user_email_address">user_email_address</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="please_login_mobile_no"><u>Please_Login/Mobile_No</u></string>
+    <string name="please_login_signup_email"><u>Please_Login/Signup_Email</u></string>
+    <string name="home">home</string>
+    <string name="feed">feed</string>
+    <string name="chat">chat\n</string>
+
+
+</resources>
